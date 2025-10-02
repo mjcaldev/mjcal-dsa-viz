@@ -85,4 +85,4 @@ Then visit: http://localhost:3000
 
 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Micheal J. Callaghan]
